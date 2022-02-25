@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raga Sudha</h1>
+<h1 align="center">Hi 👋, I'm Venkat Raga Sudha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatragasudha&label=Profile%20views&color=0e75b6&style=flat" alt="venkatragasudha" /> </p>
